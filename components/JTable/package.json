@@ -3,5 +3,8 @@
   "version": "0.2.0",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@jsilva-pt/j-table-row": "^0.1.0"
   }
 }

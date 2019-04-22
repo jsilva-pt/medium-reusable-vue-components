@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import JTableRow from '../JTableRow/JTableRow'
+import JTableRow from '@jsilva-pt/j-table-row/JTableRow'
 export default {
   name: 'JTable',
   props: {
