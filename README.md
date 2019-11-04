@@ -5,7 +5,8 @@ Sharing reusable Vue.js components with Lerna, Storybook, and npm
 ## Project setup
 ``` bash
 npm install
-lerna bootstrap
+lerna bootstrap # if installed globally
+./node_modules/lerna/cli.js bootstrap # if installed locally
 ```
 
 ## Available Commands
