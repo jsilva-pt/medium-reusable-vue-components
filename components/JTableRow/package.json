@@ -3,5 +3,9 @@
   "version": "0.2.0",
   "publishConfig": {
     "access": "public"
+  },
+  "repository" : {
+    "type" : "git",
+    "url": "ssh://git@github.com:jsilva-pt/medium-reusable-vue-components.git"
   }
 }
