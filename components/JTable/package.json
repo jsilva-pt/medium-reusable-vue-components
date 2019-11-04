@@ -1,10 +1,10 @@
 {
   "name": "@jsilva-pt/j-table",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@jsilva-pt/j-table-row": "^0.1.0"
+    "@jsilva-pt/j-table-row": "^0.2.0"
   }
 }
