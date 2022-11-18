@@ -6,7 +6,7 @@
     "@storybook/addon-actions": "^5.2.5",
     "@storybook/addon-links": "^5.2.5",
     "@storybook/addons": "^5.2.5",
-    "@storybook/vue": "^5.2.5",
+    "@storybook/vue": "^6.5.13",
     "babel-loader": "^8.0.6",
     "babel-preset-vue": "^2.0.2",
     "lerna": "^3.18.3",
